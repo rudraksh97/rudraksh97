@@ -29,9 +29,9 @@ Resume: [See resume](https://drive.google.com/file/d/1MhG_tjl8u1EGz0JhQfC0SPn0Y9
 <td width="50%" valign="top">
 
 ### Projects
-**[Git for Prompt](https://github.com/rudraksh97/GitForPrompt)** – Git like Version Tracking for Safe Vibe Coding
+**[Git for Prompt](https://github.com/rudraksh97/GitForPrompt)** – Git like Version Tracking for Safe Vibe Coding.    
 **[CareerFlow](https://github.com/rudraksh97/CareerFlow)** – TCP chat with multi-user support.  
-**[TimeContest](https://github.com/rudraksh97/TimedContest)** - 50 Google styled interview contests based on Neetcode 150 Questions  
+**[TimeContest](https://github.com/rudraksh97/TimedContest)** - 50 Google styled interview contests based on Neetcode 150 Questions.  
 **[Linkedin Connection Note](https://github.com/rudraksh97/linkedin-connection-note)** – Extension to create and send a LinkedIn connection note easily.  
 **[Terminal Chat](https://github.com/rudraksh97/terminal-chat-application)** – TCP chat with multi-user support.
 **[16-bit CPU](https://github.com/rudraksh97/16BitProcessor)** – Custom Verilog CPU on FPGA.  
