@@ -1,52 +1,66 @@
-# Hi there, I'm Rudraksh Agarwal 👋
+# Rudraksh Agarwal
 
-**Software Engineer | Backend Systems | Cloud & DevOps | ML Enthusiast**
-Ex Software Engineer @ Wipro Linecraft AI | Worked with LLMs @ IBM Research
-MS in Computer Science @ **SUNY Buffalo** | B.Tech in Engineering Physics @ **IIT Delhi**
-Buffalo, NY | Open to Software Engineering roles starting Jan 2026 
-
----
-
-## 🧑‍💻 About Me
-I’m a software engineer with **3+ years** of experience designing and building **scalable, real-time backend systems**, **microservices**, and **ETL pipelines**.  
-I enjoy solving challenging technical problems, making architectural decisions for performance & scalability, and experimenting rapidly to validate ideas.  
+**Software Engineer | Backend Systems | Cloud & DevOps | Machine Learning**  
+Ex-Software Engineer, Wipro Linecraft AI | LLM Research, IBM Research  
+MS in Computer Science, SUNY Buffalo | B.Tech in Engineering Physics, IIT Delhi  
+Buffalo, NY | Open to Software Engineering roles starting Jan 2026  
 
 ---
 
-## 🛠 Skills & Technologies
-
-**Languages:** Python, JavaScript, Java, C++, SQL  
-**Frameworks & Tools:** Flask, FastAPI, Node.js, SQLAlchemy, Luigi, Celery, JMeter, Git  
-**Databases & Messaging:** Redis, RabbitMQ, MQTT, PostgreSQL, MSSQL  
-**DevOps:** Linux, AWS, Docker, Kubernetes, Terraform, Prometheus, Grafana  
-**Machine Learning:** PyTorch, TensorFlow, Keras, Prompt Engineering  
+## About Me
+Software engineer with over three years of experience in designing and building scalable, real-time backend systems, microservices, and ETL pipelines. Skilled at making architectural decisions that balance performance, scalability, and maintainability. Focused on delivering high-quality code and rapidly validating ideas through iterative development.
 
 ---
 
-## 📂 Featured Projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- **[Terminal Chat Application](https://github.com/rudraksh97/terminal-chat-application)**  
-  🖥 Built a TCP chat app in C++ using socket programming with multi-user support.  
+### Skills & Technologies
 
-- **[16-bit Processor](https://github.com/rudraksh97/16BitProcessor)**  
-  ⚙️ Designed a custom processor in Verilog, tested on FPGA (Artix-7) via Vivado.  
+**Languages:**  
+Python, JavaScript, Java, C++, SQL  
 
-- **[Olympic Trends Analysis](https://olympics-trends.streamlit.app/)**  
-  📊 Analyzed Olympic data with ML models in Python, deployed via Streamlit.  
+**Frameworks & Tools:**  
+Flask, FastAPI, Node.js, SQLAlchemy, Luigi, Celery, JMeter, Git  
+
+**Databases & Messaging:**  
+Redis, RabbitMQ, MQTT, PostgreSQL, MSSQL  
+
+**DevOps:**  
+Linux, AWS, Docker, Kubernetes, Terraform, Prometheus, Grafana  
+
+**Machine Learning:**  
+PyTorch, TensorFlow, Keras, Prompt Engineering  
+
+</td>
+<td width="50%" valign="top">
+
+### Featured Projects
+
+**[Terminal Chat Application](https://github.com/rudraksh97/terminal-chat-application)**  
+TCP-based chat in C++ using socket programming with multiple concurrent users.
+
+**[16-bit Processor](https://github.com/rudraksh97/16BitProcessor)**  
+Custom 16-bit processor in Verilog, tested on FPGA (Artix-7) via Vivado.
+
+**[Olympic Trends Analysis](https://olympics-trends.streamlit.app/)**  
+ML-driven analysis of Olympic data, deployed via Streamlit.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rudraksh97&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rudraksh97&layout=compact&theme=radical)
-
----
-
-## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudraksh97/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/rudraksh97)  
-📧 **Email:** [rudraksh.agarwal97@gmail.com](mailto:rudraksh.agarwal97@gmail.com)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rudraksh97&show_icons=false&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rudraksh97&layout=compact&theme=default)
 
 ---
-💡 *"Great systems are built not just with code, but with clarity, ownership, and vision."*
+
+## Contact
+LinkedIn: [linkedin.com/in/rudraksh97](https://www.linkedin.com/in/rudraksh97/)  
+GitHub: [github.com/rudraksh97](https://github.com/rudraksh97)  
+Email: [rudraksh.agarwal97@gmail.com](mailto:rudraksh.agarwal97@gmail.com)  
