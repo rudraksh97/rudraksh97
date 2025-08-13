@@ -1,8 +1,8 @@
 # Hi there, I'm Rudraksh Agarwal 👋
 
-🚀 **Software Engineer | Backend Systems | Cloud & DevOps | ML Enthusiast**  
-🎓 MS in Computer Science @ **SUNY Buffalo** | B.Tech in Engineering Physics @ **IIT Delhi**  
-📍 Buffalo, NY | Open to Software Engineering roles starting Jan 2026 
+**Software Engineer | Backend Systems | Cloud & DevOps | ML Enthusiast**  
+MS in Computer Science @ **SUNY Buffalo** | B.Tech in Engineering Physics @ **IIT Delhi**  
+Buffalo, NY | Open to Software Engineering roles starting Jan 2026 
 
 ---
 
