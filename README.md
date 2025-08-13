@@ -31,6 +31,9 @@ Buffalo, NY | Open to SWE roles from Jan 2026
 **[16-bit CPU](https://github.com/rudraksh97/16BitProcessor)** – Custom Verilog CPU on FPGA.  
 **[Olympic Trends](https://olympics-trends.streamlit.app/)** – ML analysis via Streamlit.  
 
+### Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=rudraksh97&style=flat-square)
+
 </td>
 </tr>
 </table>
