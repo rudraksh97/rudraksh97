@@ -5,6 +5,8 @@ Ex-Software Engineer, Wipro Linecraft AI | LLM Research, IBM Research
 MS CS, SUNY Buffalo | B.Tech Engineering Physics, IIT Delhi  
 Buffalo, NY | Open to Software Engineering roles from Jan 2026  
 
+**Contact:** [LinkedIn](https://www.linkedin.com/in/rudraksh97/) | [GitHub](https://github.com/rudraksh97) | [Email](mailto:rudraksh.agarwal97@gmail.com)  
+
 ---
 
 <table>
@@ -36,7 +38,3 @@ Software engineer with 3+ years of experience designing and building scalable, r
 </td>
 </tr>
 </table>
-
----
-
-**Contact:** [LinkedIn](https://www.linkedin.com/in/rudraksh97/) | [GitHub](https://github.com/rudraksh97) | [Email](mailto:rudraksh.agarwal97@gmail.com)  
