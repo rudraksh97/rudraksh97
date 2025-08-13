@@ -1,6 +1,6 @@
 # Rudraksh Agarwal
 
-**Software Engineer | Backend Systems | Machine Learning 
+**Software Engineer | Backend Systems | Machine Learning  
 Ex-Software Engineer, Wipro Linecraft AI | LLM Research, IBM Research  
 MS CS, SUNY Buffalo | B.Tech Engineering Physics, IIT Delhi  
 Buffalo, NY | Open to SWE roles from Jan 2026
