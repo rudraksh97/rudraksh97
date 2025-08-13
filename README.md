@@ -1,9 +1,9 @@
 # Rudraksh Agarwal
 
-**Software Engineer | Backend Systems | Cloud & DevOps | Machine Learning**  
-Ex-Software Engineer, Wipro Linecraft AI | LLM Research, IBM Research  
-MS CS, SUNY Buffalo | B.Tech Engineering Physics, IIT Delhi  
-Buffalo, NY | Open to Software Engineering roles from Jan 2026  
+**Software Engineer | Backend Systems | Cloud & DevOps | ML**  
+Ex-Wipro Linecraft AI | LLM Research, IBM Research  
+MS CS, SUNY Buffalo | B.Tech Eng. Physics, IIT Delhi  
+Buffalo, NY | Open to SWE roles from Jan 2026  
 
 **Contact:** [LinkedIn](https://www.linkedin.com/in/rudraksh97/) | [GitHub](https://github.com/rudraksh97) | [Email](mailto:rudraksh.agarwal97@gmail.com)  
 
@@ -14,26 +14,22 @@ Buffalo, NY | Open to Software Engineering roles from Jan 2026
 <td width="50%" valign="top">
 
 ### About Me
-Software engineer with 3+ years of experience designing and building scalable, real-time backend systems, microservices, and ETL pipelines. Skilled in performance-driven architecture, cloud deployment, and delivering high-quality, maintainable code.
+3+ years building scalable backend systems, microservices, and ETL pipelines. Focused on performance-driven architecture, cloud deployment, and high-quality code.
 
 ### Skills
-**Languages:** Python, JavaScript, Java, C++, SQL  
+**Langs:** Python, JS, Java, C++, SQL  
 **Frameworks:** Flask, FastAPI, Node.js, SQLAlchemy, Luigi, Celery  
-**Databases/Messaging:** Redis, RabbitMQ, MQTT, PostgreSQL, MSSQL  
-**DevOps:** Linux, AWS, Docker, Kubernetes, Terraform, Prometheus, Grafana  
+**DB/MQ:** Redis, RabbitMQ, MQTT, PostgreSQL, MSSQL  
+**DevOps:** Linux, AWS, Docker, K8s, Terraform, Prometheus, Grafana  
 **ML:** PyTorch, TensorFlow, Keras, Prompt Engineering  
 
 </td>
 <td width="50%" valign="top">
 
 ### Projects
-**[Terminal Chat App](https://github.com/rudraksh97/terminal-chat-application)** – TCP chat in C++ with multi-user support.  
-**[16-bit Processor](https://github.com/rudraksh97/16BitProcessor)** – Custom Verilog CPU tested on FPGA.  
-**[Olympic Trends](https://olympics-trends.streamlit.app/)** – ML analysis of Olympic data via Streamlit.
-
-### Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rudraksh97&show_icons=false&theme=default&hide_border=true&card_width=300)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rudraksh97&layout=compact&theme=default&hide_border=true&card_width=300)  
+**[Terminal Chat](https://github.com/rudraksh97/terminal-chat-application)** – TCP chat with multi-user support.  
+**[16-bit CPU](https://github.com/rudraksh97/16BitProcessor)** – Custom Verilog CPU on FPGA.  
+**[Olympic Trends](https://olympics-trends.streamlit.app/)** – ML analysis via Streamlit.  
 
 </td>
 </tr>
