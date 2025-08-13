@@ -2,13 +2,8 @@
 
 **Software Engineer | Backend Systems | Cloud & DevOps | Machine Learning**  
 Ex-Software Engineer, Wipro Linecraft AI | LLM Research, IBM Research  
-MS in Computer Science, SUNY Buffalo | B.Tech in Engineering Physics, IIT Delhi  
-Buffalo, NY | Open to Software Engineering roles starting Jan 2026  
-
----
-
-## About Me
-Software engineer with over three years of experience in designing and building scalable, real-time backend systems, microservices, and ETL pipelines. Skilled at making architectural decisions that balance performance, scalability, and maintainability. Focused on delivering high-quality code and rapidly validating ideas through iterative development.
+MS CS, SUNY Buffalo | B.Tech Engineering Physics, IIT Delhi  
+Buffalo, NY | Open to Software Engineering roles from Jan 2026  
 
 ---
 
@@ -16,36 +11,27 @@ Software engineer with over three years of experience in designing and building 
 <tr>
 <td width="50%" valign="top">
 
-### Skills & Technologies
+### About Me
+Software engineer with 3+ years of experience designing and building scalable, real-time backend systems, microservices, and ETL pipelines. Skilled in performance-driven architecture, cloud deployment, and delivering high-quality, maintainable code.
 
-**Languages:**  
-Python, JavaScript, Java, C++, SQL  
-
-**Frameworks & Tools:**  
-Flask, FastAPI, Node.js, SQLAlchemy, Luigi, Celery, JMeter, Git  
-
-**Databases & Messaging:**  
-Redis, RabbitMQ, MQTT, PostgreSQL, MSSQL  
-
-**DevOps:**  
-Linux, AWS, Docker, Kubernetes, Terraform, Prometheus, Grafana  
-
-**Machine Learning:**  
-PyTorch, TensorFlow, Keras, Prompt Engineering  
+### Skills
+**Languages:** Python, JavaScript, Java, C++, SQL  
+**Frameworks:** Flask, FastAPI, Node.js, SQLAlchemy, Luigi, Celery  
+**Databases/Messaging:** Redis, RabbitMQ, MQTT, PostgreSQL, MSSQL  
+**DevOps:** Linux, AWS, Docker, Kubernetes, Terraform, Prometheus, Grafana  
+**ML:** PyTorch, TensorFlow, Keras, Prompt Engineering  
 
 </td>
 <td width="50%" valign="top">
 
-### Featured Projects
+### Projects
+**[Terminal Chat App](https://github.com/rudraksh97/terminal-chat-application)** – TCP chat in C++ with multi-user support.  
+**[16-bit Processor](https://github.com/rudraksh97/16BitProcessor)** – Custom Verilog CPU tested on FPGA.  
+**[Olympic Trends](https://olympics-trends.streamlit.app/)** – ML analysis of Olympic data via Streamlit.
 
-**[Terminal Chat Application](https://github.com/rudraksh97/terminal-chat-application)**  
-TCP-based chat in C++ using socket programming with multiple concurrent users.
-
-**[16-bit Processor](https://github.com/rudraksh97/16BitProcessor)**  
-Custom 16-bit processor in Verilog, tested on FPGA (Artix-7) via Vivado.
-
-**[Olympic Trends Analysis](https://olympics-trends.streamlit.app/)**  
-ML-driven analysis of Olympic data, deployed via Streamlit.
+### Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rudraksh97&show_icons=false&theme=default&hide_border=true&card_width=300)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rudraksh97&layout=compact&theme=default&hide_border=true&card_width=300)  
 
 </td>
 </tr>
@@ -53,14 +39,4 @@ ML-driven analysis of Olympic data, deployed via Streamlit.
 
 ---
 
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rudraksh97&show_icons=false&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rudraksh97&layout=compact&theme=default)
-
----
-
-## Contact
-LinkedIn: [linkedin.com/in/rudraksh97](https://www.linkedin.com/in/rudraksh97/)  
-GitHub: [github.com/rudraksh97](https://github.com/rudraksh97)  
-Email: [rudraksh.agarwal97@gmail.com](mailto:rudraksh.agarwal97@gmail.com)  
+**Contact:** [LinkedIn](https://www.linkedin.com/in/rudraksh97/) | [GitHub](https://github.com/rudraksh97) | [Email](mailto:rudraksh.agarwal97@gmail.com)  
