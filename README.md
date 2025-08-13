@@ -1,9 +1,9 @@
 # Rudraksh Agarwal
 
 **Software Engineer | Backend Systems | Cloud & DevOps | ML**  
-Ex-Wipro Linecraft AI | LLM Research, IBM Research  
-MS CS, SUNY Buffalo | B.Tech Eng. Physics, IIT Delhi  
-Buffalo, NY | Open to SWE roles from Jan 2026  
+Ex-Software Engineer, Wipro Linecraft AI | LLM Research, IBM Research  
+MS CS, SUNY Buffalo | B.Tech Engineering Physics, IIT Delhi  
+Buffalo, NY | Open to SWE roles from Jan 2026
 
 **Contact:** [LinkedIn](https://www.linkedin.com/in/rudraksh97/) | [GitHub](https://github.com/rudraksh97) | [Email](mailto:rudraksh.agarwal97@gmail.com)  
 
