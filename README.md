@@ -16,8 +16,7 @@ Resume: [See resume](https://drive.google.com/file/d/1MhG_tjl8u1EGz0JhQfC0SPn0Y9
 <td width="50%" valign="top">
 
 ### About Me
-3+ years building scalable backend systems, microservices, and ETL pipelines. Focused on performance-driven architecture, cloud deployment, and high-quality code.
-
+Software Engineer with 3+ years of experience designing scalable, real-time backend systems, microservices, and ETL pipelines. Skilled in architectural decision-making to balance performance, scalability, and maintainability. Committed to delivering high-quality code and rapidly validating ideas.
 ### Skills
 **Langs:** Python, JS, Java, C++, SQL  
 **Frameworks:** Flask, FastAPI, Node.js, SQLAlchemy, Luigi, Celery  
