@@ -37,8 +37,6 @@ Resume: [See resume](https://drive.google.com/file/d/1MhG_tjl8u1EGz0JhQfC0SPn0Y9
 **[16-bit CPU](https://github.com/rudraksh97/16BitProcessor)** – Custom Verilog CPU on FPGA.  
 **[Olympic Trends](https://olympics-trends.streamlit.app/)** – ML analysis via Streamlit.  
 
-### Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=rudraksh97&style=flat-square)
 
 </td>
 </tr>
