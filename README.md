@@ -21,6 +21,7 @@
 
 | Role | Company | Highlights |
 |------|---------|------------|
+| **Software Engineer** | Faster Outcomes Inc | Working on AI products in Legal and Healthcare Space |
 | **Software Engineer** | Wipro Linecraft AI | Led team of 4 engineers, 6x ETL performance, 50+ RESTful APIs, AWS K8s |
 | **Co-Founder** | Light AI Labs | Conceptualised Agentic product to reduce context switching (Pre-Agentic Era) |
 | **Research Intern** | IBM | State-of-the-art F1 score (57.7) on TechQA using BERT & Attention models |
